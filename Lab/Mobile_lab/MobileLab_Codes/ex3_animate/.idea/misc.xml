@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sabar/OneDrive/Desktop/Lab/Mobile_lab/Nitheesh_ex_3/app/src/main/res/drawable/car.xml" value="0.2390625" />
+        <entry key="..\:/Users/sabar/OneDrive/Desktop/Lab/Mobile_lab/Nitheesh_ex_3/app/src/main/res/drawable/car_body.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/sabar/OneDrive/Desktop/Lab/Mobile_lab/Nitheesh_ex_3/app/src/main/res/drawable/car_roof.xml" value="0.2390625" />
+        <entry key="..\:/Users/sabar/OneDrive/Desktop/Lab/Mobile_lab/Nitheesh_ex_3/app/src/main/res/drawable/car_wheel.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/sabar/OneDrive/Desktop/Lab/Mobile_lab/Nitheesh_ex_3/app/src/main/res/drawable/car_window.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/sabar/OneDrive/Desktop/Lab/Mobile_lab/Nitheesh_ex_3/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2390625" />
+        <entry key="..\:/Users/sabar/OneDrive/Desktop/Lab/Mobile_lab/Nitheesh_ex_3/app/src/main/res/drawable/lane_marking.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/sabar/OneDrive/Desktop/Lab/Mobile_lab/Nitheesh_ex_3/app/src/main/res/drawable/road.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/sabar/OneDrive/Desktop/Lab/Mobile_lab/Nitheesh_ex_3/app/src/main/res/drawable/sample.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/sabar/OneDrive/Desktop/Lab/Mobile_lab/Nitheesh_ex_3/app/src/main/res/layout/activity_main.xml" value="0.21927083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.21927083333333333" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

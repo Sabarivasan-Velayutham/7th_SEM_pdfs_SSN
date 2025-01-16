@@ -1,0 +1,37 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Car Body (Rectangle) -->
+    <item android:drawable="@drawable/car_body" />
+    <!-- &lt;!&ndash; Car Roof (Rectangle) &ndash;&gt;-->
+    <item
+        android:drawable="@drawable/car_roof"
+        android:gravity="top"
+        />
+    <!-- Car Windows (Rectangles) -->
+    <item
+        android:drawable="@drawable/car_window"
+        android:top="10dp"
+        android:left="20dp"
+        android:right="45dp"
+        android:bottom="20dp"
+        />
+    <item
+        android:drawable="@drawable/car_window"
+        android:top="10dp"
+        android:left="75dp"
+        android:right="5dp"
+        android:bottom="20dp"
+        />
+    <!-- Car Wheels (Circles) -->
+    <item
+        android:drawable="@drawable/car_wheel"
+        android:gravity="left|bottom"
+        android:left="10dp"
+        android:bottom="0dp"
+        />
+    <item
+        android:drawable="@drawable/car_wheel"
+        android:gravity="right|bottom"
+        android:right="10dp"
+        android:bottom="0dp"
+        />
+</layer-list>

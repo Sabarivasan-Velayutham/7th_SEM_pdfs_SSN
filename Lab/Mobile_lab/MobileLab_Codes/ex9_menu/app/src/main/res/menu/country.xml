@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ind"
+        android:title="India" />
+    <item
+        android:id="@+id/bah"
+        android:title="Bahrain" />
+
+    <item
+        android:id="@+id/is"
+        android:title="Israel" />
+
+    <item
+        android:id="@+id/can"
+        android:title="Canada" />
+
+    <item
+        android:id="@+id/uk"
+        android:title="UK" />
+
+    <item
+        android:id="@+id/chn"
+        android:title="China" />
+</menu>

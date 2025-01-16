@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Menu Country App</string>
+    <string name="india">India, officially the Republic of India (ISO: Bhārat Gaṇarājya), is a country in South Asia. It is the seventh-largest country by area; the most populous country as of June 2023; and from the time of its independence in 1947, the world\'s most populous democracy</string>
+    <string name="bahrain">
+al-Baḥrayn, locally, officially the Kingdom of Bahrain,[a] is an island country in West Asia.
+</string>
+    <string name="israel">
+Israel is a country in West Asia. It is bordered by Lebanon to the north, by Syria to the northeast, by Jordan to the east, by the Red Sea to the south, by Egypt to the southwest, by the Mediterranean Sea to the west, and by the Palestinian territories – the West Bank along the east and the Gaza Strip along the southwest. In war please try later
+</string>
+    <string name="china">
+China , officially the People\'s Republic of China (PRC),[k] is a country in East Asia.
+</string>
+    <string name="canada">
+Canada is a country in North America. Its ten provinces and three territories extend from the Atlantic Ocean to the Pacific Ocean and northward into the Arctic Ocean, making it the world\'s second-largest country by total area,
+</string>
+    <string name="uk">
+The United Kingdom of Great Britain and Northern Ireland, commonly known as the United Kingdom (UK) or Britain,[k][14] is an island country in Northwestern Europe, off the north-western coast of the continental mainland.
+</string>
+</resources>

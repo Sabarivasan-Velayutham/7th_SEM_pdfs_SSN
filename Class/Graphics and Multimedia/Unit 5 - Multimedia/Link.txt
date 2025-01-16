@@ -1,0 +1,27 @@
+https://nptel.ac.in/courses/117105083
+
+
+-------------------------
+2m 
+Name few multimedia elements. PNo=1
+Outline the design issues in Multimedia authoring.PNo = 48
+What is multimedia? Mention some applications where multimedia is used. PNo = 2
+What are the basic objects of multimedia systems?
+List two modern multimedia tools for rendering 2D and 3D graphics.
+
+-------------------------
+6m 
+Discuss the MPEG compression technique used in multirnedia PNo = 22, 23
+
+--------------------
+10m 
+In a document imaging system, where would you compress the image in the scanner node, in host system, or in the storage node?
+Examine the implications of where compression and decompression take place in a document imaging system.
+
+Justify how a video conferencing application can be related to hypermedia messaging. Discuss the implications of' building a system where the user starts with video conferencing and switches to integrated stored messaging. PNO = 56
+
+Explain in detail the JPEG Compression scheme.PNo = 20
+
+Explain With a neat diagram the architecture of a multimedia system and its defining Objects.
+
+--------------------------------------

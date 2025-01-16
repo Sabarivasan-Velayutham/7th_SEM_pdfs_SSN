@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="414dp"
+        android:layout_height="203dp"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteY="-2dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="103dp"
+            android:orientation="horizontal">
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="144dp"
+                android:layout_height="64dp"
+                android:layout_weight="1"
+                android:text="Product Id"
+                android:textSize="24sp" />
+            <EditText
+                android:id="@+id/idr"
+                android:layout_width="wrap_content"
+                android:layout_height="83dp"
+                android:layout_weight="1"
+                android:ems="10"
+                android:inputType="textPersonName"
+                android:textSize="24sp" />
+        </LinearLayout>
+        <Button
+            android:id="@+id/retrieve"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Retrieve" />
+        <Button
+            android:id="@+id/backr"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Back" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_marginTop="50dp"
+        android:layout_width="411dp"
+        android:layout_height="459dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="84dp"
+            android:orientation="horizontal">
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="131dp"
+                android:layout_height="58dp"
+                android:layout_weight="1"
+                android:text="Product Name"
+                android:textSize="24sp" />
+            <TextView
+                android:id="@+id/namer"
+                android:layout_width="146dp"
+                android:layout_height="73dp"
+                android:layout_weight="1"
+                android:text=""
+                android:textSize="24sp" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="94dp"
+            android:orientation="horizontal">
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="198dp"
+                android:layout_height="71dp"
+                android:layout_weight="1"
+                android:text="Brand"
+                android:textSize="24sp" />
+            <TextView
+                android:id="@+id/brandr"
+                android:layout_width="146dp"
+                android:layout_height="73dp"
+                android:layout_weight="1"
+                android:text=""
+                android:textSize="24sp" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="93dp"
+            android:orientation="horizontal">
+            <TextView
+                android:id="@+id/textView0"
+                android:layout_width="146dp"
+                android:layout_height="73dp"
+                android:layout_weight="1"
+                android:text="Description"
+                android:textSize="24sp" />
+            <TextView
+                android:id="@+id/descr"
+                android:layout_width="146dp"
+                android:layout_height="73dp"
+                android:layout_weight="1"
+                android:text=""
+                android:textSize="24sp" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="96dp"
+            android:orientation="horizontal">
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="114dp"
+                android:layout_height="79dp"
+                android:layout_weight="1"
+                android:text="Price"
+                android:textSize="24sp" />
+            <TextView
+                android:id="@+id/pricer"
+                android:layout_width="146dp"
+                android:layout_height="73dp"
+                android:layout_weight="1"
+                android:text=""
+                android:textSize="24sp" />
+        </LinearLayout>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
