@@ -1,0 +1,181 @@
+
+
+## 🚀 **CitiQuest: Hybrid Gamified Onboarding Experience**
+
+### 🔧 **Problem**
+
+1. The current 2-day NHO is **time-intensive** with **low information retention**.
+2. Onboarding relies on **static presentations and documents**, which are **uninspiring**.
+
+---
+
+### 🛠️ **Existing Alternatives**
+
+* Traditional classroom onboarding: lectures, PowerPoint slides, printed handbooks
+* Static e-learning modules with quizzes
+
+---
+
+## 🎯 **Our Solution**
+
+A **hybrid onboarding experience** that combines **digital gameplay** with **real-world exploration**.
+New hires play as characters, go on quests, solve puzzles, and learn Citi onboarding information **through missions, not lectures**.
+
+---
+
+## 🔑 **Key Highlights**
+
+* 🎮 **Gamified**: Each module is a "quest" (mini-game + mission)
+* 🧩 **Treasure Hunt Style**: Explore office spaces to unlock clues
+* 🌐 **Digital + Physical**: Learn online, interact in-office (QR scans, real tasks)
+* 🧠 **Infographics**: One-page summary after each module
+* 🥇 **Leaderboard**: Adds fun competition and engagement
+
+---
+
+## 🌟 **Unique Features**
+
+### 1. 🧠 **Memory Capsule**
+
+* New hires write a message to their future selves at the end of onboarding
+* Can include:
+
+  * Learnings
+  * Goals at Citi
+  * Shoutouts to teammates
+  * Reflections or excitement
+* Sent via email **6 months later**, along with a **highlight reel** of badges, scores, and progress
+
+> **Impact**: Emotional anchoring → deeper memory → personal ownership
+
+---
+
+### 2. 🌳 **Legacy Tree**
+
+* Every new hire becomes a **“branch”**
+* Add:
+
+  * Tips they wish they knew earlier
+  * Fun Citi trivia
+  * Questions for future batches
+* New hires “inherit” a branch to respond to, building a **living knowledge network**
+
+> **Impact**: Social connection + peer learning from Day 1
+
+---
+
+## 🧠 **AI-Powered Onboarding Passport**
+
+### 🔍 How It Works:
+
+1. **Smart Entry Survey** (Day 1)
+
+   * Quiz + preference form
+   * Maps learning style and area of interest (e.g., tech, culture, compliance)
+
+2. **AI Maps Custom Learning Path**
+
+   * Tailored quests, avatars, module order
+   * E.g., Tech-focused user starts with digital systems, culture-first starts with ethics quests
+
+3. **Real-Time Analytics Tracking**
+
+   * Monitors:
+
+     * Time per module
+     * Scores
+     * Completion rate
+     * Behavior patterns (skips, retries)
+   * AI recommends:
+
+     * Bonus content
+     * Peer matches
+     * L\&D courses for future
+
+4. **HR Dashboard**
+
+   * Insights on:
+
+     * Popular/boring modules
+     * High-performing talent
+     * Feedback loops for constant improvement
+
+---
+
+## 🗺️ **Experience Overview**
+
+| Element               | Digital                                 | Physical                                        |
+| --------------------- | --------------------------------------- | ----------------------------------------------- |
+| **Avatar + Map**      | Interactive onboarding portal (web app) | QR codes, progress boards in office             |
+| **Module Quests**     | Mini-games, videos, interactive quizzes | Location-based tasks (cafeteria, IT desk, etc.) |
+| **Leaderboard**       | Live tracking of points and badges      | Office displays for top scorers                 |
+| **Infographics**      | Shareable one-pagers per module         | QR-triggered posters, printed souvenirs         |
+| **Team Missions**     | Virtual collaboration quests            | Real-world decoding missions                    |
+| **Branding Elements** | Citi mascots, avatars, animations       | Photo booths, Citi-themed décor, selfie points  |
+
+---
+
+## 🧩 **Module Design Example: “Information Security Quest”**
+
+* **Story**: “Join the Citi Cyber Squad to stop a hidden virus!”
+
+### Step-by-Step:
+
+1. **Digital**: Spot phishing emails in a timed mini-game
+2. **Physical**: Locate a QR poster near the IT Helpdesk → scan to reveal a fun tip sheet
+3. **Infographic**: Receive a 1-pager on IT do’s and don’ts
+4. ✅ **Quest Complete**: Earn badge → Level up → Leaderboard updated
+
+---
+
+### 🧪 Example: “Tech Tools & Security Module”
+
+* **Storyline**: New recruits hunt for system vulnerabilities.
+* Includes:
+
+  * Phishing simulation
+  * Real-world QR clue search
+  * Badge earned: 
+  * Reward: Swag/lunch coupon or coffee with a director
+
+---
+
+## 📊 **Impact Metrics**
+
+| Metric                   | Outcome                                  |
+| ------------------------ | ---------------------------------------- |
+| 🕒 Onboarding Time       | Reduced to < 5 hours                     |
+| 📈 Engagement            | 2x boost via gamification                |
+| 🧠 Information Retention | 70–80% via immersive learning            |
+| 👥 HR Support Needed     | Only 1 facilitator required per session  |
+| 📡 Insights for HR       | Real-time dashboard on onboarding trends |
+
+---
+
+## 🧬 **Unfair Advantage**
+
+* Combines physical and digital onboarding
+* Works without AR/VR; just QR + web
+* Scalable across Citi India sites
+* Minimal infrastructure needed
+* Community-driven and self-sustaining
+
+---
+
+## 📡 **Rollout Strategy**
+
+* **Pre-Day 1**: Teaser email — “Your CitiQuest begins soon…”
+* **Day 1**: QR invite to onboarding portal
+* **Throughout Office**: Posters, game cards, clue stations
+* **Final**: Print-ready souvenir booklet + Memory Capsule email
+
+---
+
+## 📘 **Infographic Strategy**
+
+* Available in:
+
+  * Web downloads from portal
+  * Printouts in onboarding kits (stylized, souvenir-like)
+
+
