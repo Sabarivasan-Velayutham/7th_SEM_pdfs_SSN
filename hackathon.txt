@@ -1,5 +1,34 @@
 
+Problem
+List your top 1-3 problem
 
+Existing Alternatives
+List how this problem is solved today
+
+Solution
+Outline a possible solution for each problem
+
+Key Metrics
+List the key numbers that tell you how your  business is doing.
+
+Unique Value Proposition
+Single, clear, compelling message that states why you are different
+
+High-Level
+Concept  List your X for Y analogy
+YouTube — Flickr for videos.
+
+Unfair  Advantage
+Something that cannot easily be bought or copied.
+
+Channels
+List your path to customers (inbound or outbound).
+
+Customer Segments
+List your target customers and users.
+
+
+==================================================================
 ## 🚀 **CitiQuest: Hybrid Gamified Onboarding Experience**
 
 ### 🔧 **Problem**
